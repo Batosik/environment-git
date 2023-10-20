@@ -1,0 +1,15 @@
+{
+  "name": "environment-git",
+  "version": "1.0.0",
+  "description": "'Нужен для отработки настройки окружения и отработки простых git-команд'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "author": "Nikita",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
